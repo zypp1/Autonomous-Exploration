@@ -2,10 +2,9 @@
 
 devel/
 
-build/
 
 .catkin_workspace
-
+.vscode
 
 /src/FAST_LIO/build
 src/FAST_LIO/Log/*.png
